@@ -57,16 +57,18 @@ def main():
     if not falist or not groupColumns or not orderGroups or not infoTable or not orderGenes:
         sys.exit("Please check -i, -I, -g, -G, -j")
 
+    log=open('run_CodonW.log','w')
+
     ## Step00
-    print("# Step00. create results path")
-    print('mkdir '+Opath)
+    log.write("# Step00. create results path")
+    log.write('\nmkdir '+Opath)
     os.system('mkdir '+Opath)
 
     dirpath=os.path.dirname(os.path.realpath(__file__))
 
     ## Step01. BasicCodonUsage
-    print("\n# Step01. BasicCodonUsage")
-    print("mkdir -p "+Opath+"/01.BasicCodonUsage")
+    log.write("\n\n# Step01. BasicCodonUsage")
+    log.write("\nmkdir -p "+Opath+"/01.BasicCodonUsage")
     os.system("mkdir -p "+Opath+"/01.BasicCodonUsage")
 
     for i in open(falist,'r'):
@@ -74,12 +76,12 @@ def main():
         geneID=os.path.basename(i).split('.')[0]
 
         variantCalling="python {0}/BasicCodonUsage.py -i {1} -t {2} -o {3}".format(dirpath,i,set_table,Opath+'/'+'/01.BasicCodonUsage/'+geneID)
-        print(variantCalling)
+        log.write("\n"+variantCalling)
         os.system(variantCalling)
 
     ## Step02. RSCU pattern
-    print("\n# Step02. RSCU pattern")
-    print("mkdir -p "+Opath+"/02.RSCU_pattern")
+    log.write("\n# Step02. RSCU pattern")
+    log.write("\n\nmkdir -p "+Opath+"/02.RSCU_pattern")
     os.system("mkdir -p "+Opath+"/02.RSCU_pattern")
 
     RSCU_pattern="python {0}/RSCU.pattern.py -i {1} -I {2} -j '{3}' -g {4} -o {5} -p {6}".format(dirpath,Opath+'/01.BasicCodonUsage',infoTable,orderGenes,groupColumns,Opath+'/02.RSCU_pattern',prefix)
@@ -87,12 +89,12 @@ def main():
         RSCU_pattern += ' -CA'
     if HC:
         RSCU_pattern += ' -HC'
-    print(RSCU_pattern)
+    log.write("\n"+RSCU_pattern)
     os.system(RSCU_pattern)
 
     ## Step03. ATGC content analysis
-    print("\n# Step03. ATGC content analysis")
-    print("mkdir -p "+Opath+"/03.ATGC_content")
+    log.write("\n\n# Step03. ATGC content analysis")
+    log.write("\nmkdir -p "+Opath+"/03.ATGC_content")
     os.system("mkdir -p "+Opath+"/03.ATGC_content")
 
     ATGC_content="python {0}/ATGC.content.py -i {1} -I {2} -g {3} -o {4} -p {5}".format(dirpath,falist,infoTable,groupColumns,Opath+'/03.ATGC_content',prefix)
@@ -100,12 +102,12 @@ def main():
     if plot_ATGC_percentage:
         ATGC_content += ' -ATGC_bar_plot -G '+"'"+orderGroups+"'"
 
-    print(ATGC_content)
+    log.write("\n"+ATGC_content)
     os.system(ATGC_content)
 
     ## Step04. ENC and ENC-GC3s analysis
-    print("\n# Step04. ENC and ENC-GC3s analysis")
-    print("mkdir -p "+Opath+"/04.ENC_GC3s")
+    log.write("\n\n# Step04. ENC and ENC-GC3s analysis")
+    log.write("\nmkdir -p "+Opath+"/04.ENC_GC3s")
     os.system("mkdir -p "+Opath+"/04.ENC_GC3s")
 
     ENC_GC3_command="python {0}/ENC_GC3s.py -i {1} -I {2} -g {3} -o {4} -p {5} -G '{6}'".format(dirpath,falist,infoTable,groupColumns,Opath+'/04.ENC_GC3s',prefix,orderGroups)
@@ -115,12 +117,12 @@ def main():
     if ENC_bar:
         ENC_GC3_command += ' -ENC_bar_plot'
 
-    print(ENC_GC3_command)
+    log.write("\n"+ENC_GC3_command)
     os.system(ENC_GC3_command)
 
     ## Step05. Dinucleotide. particularly,CpG
-    print("\n# Step05. Dinucleotide. particularly,CpG")
-    print("mkdir -p "+Opath+"/05.Dinucleotide")
+    log.write("\n\n# Step05. Dinucleotide. particularly,CpG")
+    log.write("\nmkdir -p "+Opath+"/05.Dinucleotide")
     os.system("mkdir -p "+Opath+"/05.Dinucleotide")
 
     dinuc_command="python {0}/Dinucleotide.py -i {1} -I {2} -g {3} -o {4} -p {5}".format(dirpath,falist,infoTable,groupColumns,Opath+'/05.Dinucleotide',prefix)
@@ -130,7 +132,7 @@ def main():
     if CpG_GC_corr:
         dinuc_command +=" -CpG_GC_corr -ATGC "+Opath+'/03.ATGC_content/'+prefix+'.ATGC_Content.overAll.txt'
 
-    print(dinuc_command)
+    log.write("\n"+dinuc_command)
     os.system(dinuc_command)
 
 if __name__  == "__main__":
