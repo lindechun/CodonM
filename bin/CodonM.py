@@ -105,8 +105,8 @@ def main():
 
     ## Step04. ENC and ENC-GC3s analysis
     print("\n# Step04. ENC and ENC-GC3s analysis")
-    print("mkdir -p "+Opath+"/results/04.ENC_GC3s")
-    os.system("mkdir -p "+Opath+"/results/04.ENC_GC3s")
+    print("mkdir -p "+Opath+"/04.ENC_GC3s")
+    os.system("mkdir -p "+Opath+"/04.ENC_GC3s")
 
     ENC_GC3_command="python {0}/ENC_GC3s.py -i {1} -I {2} -g {3} -o {4} -p {5} -G '{6}'".format(dirpath,falist,infoTable,groupColumns,Opath+'/04.ENC_GC3s',prefix,orderGroups)
 
