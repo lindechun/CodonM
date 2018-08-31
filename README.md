@@ -85,3 +85,6 @@ See `/your/path/to/CodonM/test/demo_*.sh` for example of Codon usage analysis ab
 $ cat demo_python_flow.sh
 python ../bin/CodonM.py -i data.list -I ../data/SampleInfo.txt -j "C,prM,E,NS1,NS2A,NS2B,NS3,NS4A,NS4B,NS5" -g SubLineage -G "African,South_Eastern_Asian,Oceania-American" -CA -HC -ATGC_bar_plot -ENC_GC3_plot -ENC_bar_plot -CpG_GC_corr -CpG_bar -o results -p Zika
 ```
+
+## Citation
+[Lin, D., Li, L., Xie, T., Yin, Q., Saksena, N., Wu, R., Li, W., Dai, G., Ma, J., Zhou, X., et al. (2018). Codon usage variation of Zika virus: The potential roles of NS2B and NS4A in its global pandemic. Virus research 247, 71-83.](https://www.sciencedirect.com/science/article/pii/S016817021730597X?via%3Dihub)
