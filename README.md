@@ -9,7 +9,7 @@ Dechun Lin
 ## Citation
 Please cite the following article when using ggtree:
 
-[Lin, D., Li, L., Xie, T., Yin, Q., Saksena, N., Wu, R., Li, W., Dai, G., Ma, J., Zhou, X., et al. (2018). Codon usage variation of Zika virus: The potential roles of NS2B and NS4A in its global pandemic. Virus research 247, 71-83.](https://www.sciencedirect.com/science/article/pii/S016817021730597X?via%3Dihub)
+*Lin, D.*, Li, L., Xie, T., et al. (2018). Codon usage variation of Zika virus: The potential roles of NS2B and NS4A in its global pandemic. *Virus research* 247, 71-83.[Link](https://www.sciencedirect.com/science/article/pii/S016817021730597X?via%3Dihub)
 
 ## Introduction
 
