@@ -1,38 +1,38 @@
 	gene	ID	Year	Strain	Host	Lineage	SubLineage	Region	Country	Note
-NS3.LC002520	NS3	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
 NS3.KU955594	NS3	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS3.KF383118	NS3	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
+NS3.LC002520	NS3	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
 NS3.KF383119	NS3	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
-NS3.KF383115	NS3	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
-NS3.KF268948	NS3	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS3.KF268949	NS3	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 NS3.KF268950	NS3	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
-NS3.HQ234500	NS3	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
-NS3.HQ234501	NS3	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
+NS3.KF383115	NS3	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
+NS3.KF268948	NS3	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS3.KF383116	NS3	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
+NS3.HQ234500	NS3	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 NS3.KU955595	NS3	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
+NS3.HQ234501	NS3	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS3.KU955592	NS3	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS3.KU955591	NS3	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
-NS3.KX601166	NS3	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS3.KF383117	NS3	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
+NS3.KX601166	NS3	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS3.HQ234499	NS3	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
-NS3.KU955593	NS3	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS3.EU545988	NS3	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
+NS3.KU955593	NS3	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS3.KU681082	NS3	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
-NS3.KX694532	NS3	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS3.KU681081	NS3	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+NS3.KX694532	NS3	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS3.KX813683	NS3	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS3.KX447517	NS3	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KU744693	NS3	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS3.KX197192	NS3	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS3.KU509998	NS3	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS3.KU321639	NS3	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS3.KU527068	NS3	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
-NS3.KX051563	NS3	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
+NS3.KU509998	NS3	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
+NS3.KX197192	NS3	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KX838906	NS3	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS3.KU527068	NS3	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS3.KX673530	NS3	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
-NS3.KX838904	NS3	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS3.KX051563	NS3	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS3.KX832731	NS3	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
+NS3.KX838904	NS3	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS3.KX842449	NS3	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS3.KX838905	NS3	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS3.KU853012	NS3	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
@@ -48,33 +48,33 @@ NS3.KU820898	NS3	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	Chi
 NS3.KX087101	NS3	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS3.KU365778	NS3	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU758877	NS3	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
-NS3.KU312312	NS3	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS3.KU937936	NS3	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
+NS3.KU312312	NS3	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS3.KU365779	NS3	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU707826	NS3	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 NS3.KU365777	NS3	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU365780	NS3	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU870645	NS3	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
 NS3.KX694534	NS3	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
-NS3.KU501217	NS3	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS3.KX262887	NS3	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
+NS3.KU501217	NS3	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS3.KU501216	NS3	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS3.KX766029	NS3	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS3.KX446950	NS3	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
-NS3.KX247632	NS3	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS3.KX446951	NS3	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+NS3.KX247632	NS3	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS3.KU940228	NS3	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KX520666	NS3	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU729218	NS3	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KX197205	NS3	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS3.KU497555	NS3	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS3.KU991811	NS3	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
-NS3.KX548902	NS3	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS3.KU647676	NS3	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
+NS3.KX548902	NS3	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS3.KU922923	NS3	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 NS3.KU922960	NS3	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS3.KX198135	NS3	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS3.KX702400	NS3	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
+NS3.KX198135	NS3	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS3.KX247646	NS3	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS3.KX087102	NS3	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS3.KU820897	NS3	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
@@ -83,52 +83,52 @@ NS3.KX156776	NS3	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-Ameri
 NS3.KX156774	NS3	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS3.KX447510	NS3	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447511	NS3	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS3.KX369547	NS3	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447512	NS3	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS3.KX369547	NS3	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447513	NS3	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX117076	NS3	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS3.KU866423	NS3	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS3.KU955589	NS3	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS3.KU866423	NS3	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS3.KX266255	NS3	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS3.KU820899	NS3	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS3.KX185891	NS3	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS3.KU963796	NS3	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS3.KX185891	NS3	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS3.KX806557	NS3	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
 NS3.KJ776791	NS3	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447516	NS3	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447515	NS3	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447514	NS3	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS3.KX447509	NS3	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS2B.LC002520	NS2B	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
-NS2B.KU955594	NS2B	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS2B.KF383119	NS2B	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
+NS2B.KU955594	NS2B	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
+NS2B.LC002520	NS2B	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
 NS2B.KF383118	NS2B	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS2B.KF383115	NS2B	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS2B.KF268949	NS2B	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
-NS2B.KF268948	NS2B	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS2B.KF268950	NS2B	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
-NS2B.KF383116	NS2B	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
+NS2B.KF268948	NS2B	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
+NS2B.HQ234500	NS2B	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 NS2B.HQ234501	NS2B	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS2B.KU955595	NS2B	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
-NS2B.HQ234500	NS2B	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
+NS2B.KF383116	NS2B	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
 NS2B.KU955592	NS2B	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS2B.KU955591	NS2B	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS2B.KX601166	NS2B	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS2B.KF383117	NS2B	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
-NS2B.KU681082	NS2B	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
-NS2B.EU545988	NS2B	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
-NS2B.KU955593	NS2B	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS2B.HQ234499	NS2B	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
+NS2B.EU545988	NS2B	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
+NS2B.KU681082	NS2B	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+NS2B.KU955593	NS2B	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS2B.KX694532	NS2B	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS2B.KU681081	NS2B	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS2B.KX813683	NS2B	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS2B.KX447517	NS2B	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KU744693	NS2B	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS2B.KX197192	NS2B	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KU321639	NS2B	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS2B.KX197192	NS2B	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KU509998	NS2B	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
-NS2B.KX051563	NS2B	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS2B.KU527068	NS2B	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
+NS2B.KX051563	NS2B	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS2B.KX838906	NS2B	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS2B.KX673530	NS2B	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 NS2B.KX838904	NS2B	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
@@ -153,38 +153,38 @@ NS2B.KU312312	NS2B	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	So
 NS2B.KU365779	NS2B	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KU707826	NS2B	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 NS2B.KU365780	NS2B	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS2B.KU365777	NS2B	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KU870645	NS2B	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
+NS2B.KU365777	NS2B	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KX694534	NS2B	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS2B.KX262887	NS2B	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS2B.KU501217	NS2B	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS2B.KU501216	NS2B	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS2B.KX766029	NS2B	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS2B.KX446950	NS2B	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2B.KX247632	NS2B	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+NS2B.KX446950	NS2B	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2B.KX446951	NS2B	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2B.KU940228	NS2B	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS2B.KU729218	NS2B	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KX520666	NS2B	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS2B.KU729218	NS2B	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2B.KX197205	NS2B	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS2B.KU497555	NS2B	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS2B.KU991811	NS2B	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS2B.KX548902	NS2B	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+NS2B.KU497555	NS2B	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS2B.KU647676	NS2B	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
+NS2B.KX198135	NS2B	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2B.KU922923	NS2B	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 NS2B.KU922960	NS2B	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS2B.KX198135	NS2B	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2B.KX702400	NS2B	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
-NS2B.KX087102	NS2B	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2B.KX247646	NS2B	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-NS2B.KU820897	NS2B	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+NS2B.KX087102	NS2B	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2B.KX156775	NS2B	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS2B.KU820897	NS2B	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2B.KX156774	NS2B	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2B.KX156776	NS2B	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2B.KX447510	NS2B	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447511	NS2B	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS2B.KX369547	NS2B	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447512	NS2B	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS2B.KX369547	NS2B	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447513	NS2B	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX117076	NS2B	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS2B.KU866423	NS2B	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
@@ -196,39 +196,39 @@ NS2B.KU963796	NS2B	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	As
 NS2B.KX806557	NS2B	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
 NS2B.KJ776791	NS2B	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447516	NS2B	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS2B.KX447515	NS2B	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447514	NS2B	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS2B.KX447515	NS2B	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2B.KX447509	NS2B	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-prM.KF383119	prM	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 prM.KU955594	prM	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
-prM.KF383118	prM	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
+prM.KF383119	prM	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 prM.LC002520	prM	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
+prM.KF383118	prM	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 prM.KF383115	prM	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
-prM.KF268948	prM	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
-prM.KF268950	prM	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 prM.KF268949	prM	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
-prM.KF383116	prM	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
+prM.KF268950	prM	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
+prM.KF268948	prM	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 prM.HQ234500	prM	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
+prM.KF383116	prM	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
 prM.HQ234501	prM	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 prM.KU955595	prM	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
-prM.KU955592	prM	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 prM.KU955591	prM	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
+prM.KU955592	prM	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 prM.KX601166	prM	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 prM.KF383117	prM	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
-prM.HQ234499	prM	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
-prM.EU545988	prM	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 prM.KU681082	prM	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+prM.HQ234499	prM	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
 prM.KU955593	prM	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
+prM.EU545988	prM	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 prM.KX694532	prM	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 prM.KX813683	prM	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
-prM.KX447517	prM	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KU681081	prM	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+prM.KX447517	prM	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KU744693	prM	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KX197192	prM	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-prM.KU321639	prM	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU509998	prM	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
-prM.KU527068	prM	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
+prM.KU321639	prM	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KX051563	prM	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
+prM.KU527068	prM	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 prM.KX838906	prM	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 prM.KX673530	prM	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 prM.KX838904	prM	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
@@ -237,51 +237,51 @@ prM.KX838905	prM	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North 
 prM.KX842449	prM	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 prM.KU853012	prM	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 prM.KU853013	prM	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
-prM.KU729217	prM	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 prM.KX280026	prM	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+prM.KU729217	prM	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 prM.KX056898	prM	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
-prM.KU955590	prM	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KX766028	prM	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
+prM.KU955590	prM	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KU740184	prM	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-prM.KU820898	prM	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KU761564	prM	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KX087101	prM	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
+prM.KU820898	prM	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 prM.KU365778	prM	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU758877	prM	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 prM.KU937936	prM	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 prM.KU312312	prM	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 prM.KU365779	prM	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+prM.KU365777	prM	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU707826	prM	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 prM.KU365780	prM	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-prM.KU365777	prM	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU870645	prM	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
-prM.KX694534	prM	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 prM.KX262887	prM	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 prM.KU501217	prM	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
+prM.KX694534	prM	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 prM.KU501216	prM	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 prM.KX766029	prM	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-prM.KX446950	prM	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 prM.KX247632	prM	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+prM.KX446950	prM	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 prM.KX446951	prM	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 prM.KU940228	prM	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KX520666	prM	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-prM.KX197205	prM	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU729218	prM	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+prM.KX197205	prM	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 prM.KU497555	prM	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 prM.KU991811	prM	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 prM.KX548902	prM	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 prM.KU647676	prM	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 prM.KU922923	prM	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 prM.KU922960	prM	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-prM.KX702400	prM	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 prM.KX198135	prM	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+prM.KX702400	prM	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 prM.KX247646	prM	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 prM.KX087102	prM	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 prM.KU820897	prM	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 prM.KX156775	prM	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 prM.KX156774	prM	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-prM.KX156776	prM	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 prM.KX447510	prM	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+prM.KX156776	prM	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 prM.KX447511	prM	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KX369547	prM	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KX447512	prM	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -299,22 +299,22 @@ prM.KX447516	prM	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oce
 prM.KX447515	prM	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KX447514	prM	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 prM.KX447509	prM	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+C.KF383119	C	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 C.KU955594	C	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 C.LC002520	C	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
 C.KF383118	C	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
-C.KF383119	C	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
-C.KF383115	C	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
-C.KF268948	C	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
-C.KF268949	C	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 C.KF268950	C	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
+C.KF383115	C	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
+C.KF268949	C	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
+C.KF268948	C	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 C.KF383116	C	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
-C.HQ234500	C	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 C.HQ234501	C	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
+C.HQ234500	C	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 C.KU955595	C	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
-C.KU955591	C	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 C.KU955592	C	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
-C.KX601166	C	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 C.KF383117	C	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
+C.KU955591	C	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
+C.KX601166	C	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 C.HQ234499	C	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
 C.KU681082	C	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 C.EU545988	C	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
@@ -325,8 +325,8 @@ C.KX813683	C	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asi
 C.KX447517	C	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 C.KU744693	C	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KX197192	C	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-C.KU509998	C	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 C.KU321639	C	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+C.KU509998	C	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 C.KU527068	C	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 C.KX051563	C	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 C.KX838906	C	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
@@ -336,45 +336,45 @@ C.KX832731	C	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North Am
 C.KX838905	C	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 C.KX842449	C	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 C.KU853012	C	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
-C.KU729217	C	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 C.KU853013	C	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
+C.KU729217	C	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 C.KX280026	C	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KX056898	C	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
-C.KX766028	C	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 C.KU955590	C	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
+C.KX766028	C	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 C.KU740184	C	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KU761564	C	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
-C.KX087101	C	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 C.KU820898	C	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+C.KX087101	C	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 C.KU365778	C	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU758877	C	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 C.KU937936	C	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 C.KU312312	C	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 C.KU365779	C	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU707826	C	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
-C.KU365780	C	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU365777	C	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+C.KU365780	C	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU870645	C	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
 C.KX694534	C	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
-C.KU501216	C	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
-C.KU501217	C	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 C.KX262887	C	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
+C.KU501217	C	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
+C.KU501216	C	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 C.KX766029	C	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-C.KX247632	C	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 C.KX446950	C	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+C.KX247632	C	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 C.KX446951	C	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+C.KX520666	C	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU940228	C	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU729218	C	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KX197205	C	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-C.KX520666	C	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 C.KU497555	C	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
-C.KX548902	C	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 C.KU991811	C	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
+C.KX548902	C	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 C.KU647676	C	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 C.KU922923	C	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 C.KU922960	C	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-C.KX702400	C	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 C.KX198135	C	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+C.KX702400	C	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 C.KX247646	C	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 C.KX087102	C	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 C.KU820897	C	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
@@ -390,8 +390,8 @@ C.KX117076	C	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	C
 C.KU866423	C	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KU955589	C	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KX266255	C	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
-C.KX185891	C	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KU820899	C	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
+C.KX185891	C	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KU963796	C	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 C.KX806557	C	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
 C.KJ776791	C	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -399,72 +399,72 @@ C.KX447516	C	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania
 C.KX447515	C	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 C.KX447514	C	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 C.KX447509	C	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS5.KF383119	NS5	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
+NS5.KU955594	NS5	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS5.KF383118	NS5	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS5.LC002520	NS5	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
-NS5.KU955594	NS5	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
-NS5.KF383119	NS5	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 NS5.KF383115	NS5	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS5.KF268949	NS5	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
-NS5.KF268950	NS5	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 NS5.KF268948	NS5	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
-NS5.KF383116	NS5	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
-NS5.KU955595	NS5	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
+NS5.KF268950	NS5	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 NS5.HQ234500	NS5	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
+NS5.KF383116	NS5	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
 NS5.HQ234501	NS5	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
+NS5.KU955595	NS5	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS5.KU955592	NS5	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS5.KU955591	NS5	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS5.KX601166	NS5	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS5.KF383117	NS5	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
 NS5.HQ234499	NS5	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
-NS5.EU545988	NS5	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS5.KU681082	NS5	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+NS5.EU545988	NS5	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS5.KU955593	NS5	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS5.KX694532	NS5	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+NS5.KU681081	NS5	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS5.KX447517	NS5	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX813683	NS5	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
-NS5.KU681081	NS5	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS5.KU744693	NS5	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX197192	NS5	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS5.KU321639	NS5	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU509998	NS5	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
+NS5.KU321639	NS5	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU527068	NS5	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
+NS5.KX051563	NS5	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS5.KX838906	NS5	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS5.KX673530	NS5	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
-NS5.KX051563	NS5	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS5.KX838904	NS5	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
-NS5.KX832731	NS5	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS5.KX838905	NS5	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS5.KX832731	NS5	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS5.KX842449	NS5	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
-NS5.KU729217	NS5	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
-NS5.KU853013	NS5	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS5.KU853012	NS5	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
+NS5.KU853013	NS5	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
+NS5.KU729217	NS5	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS5.KX280026	NS5	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS5.KX056898	NS5	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KU955590	NS5	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX766028	NS5	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 NS5.KU740184	NS5	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS5.KU820898	NS5	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS5.KX056898	NS5	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KU761564	NS5	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS5.KU820898	NS5	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX087101	NS5	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS5.KU365778	NS5	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU758877	NS5	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 NS5.KU937936	NS5	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS5.KU312312	NS5	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS5.KU365779	NS5	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS5.KU365777	NS5	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU707826	NS5	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 NS5.KU365780	NS5	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS5.KU365777	NS5	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU870645	NS5	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
 NS5.KX262887	NS5	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS5.KX694534	NS5	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS5.KU501217	NS5	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS5.KU501216	NS5	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
-NS5.KX766029	NS5	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS5.KX446950	NS5	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS5.KX247632	NS5	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+NS5.KX446950	NS5	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+NS5.KX766029	NS5	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS5.KX446951	NS5	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
-NS5.KU940228	NS5	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KX520666	NS5	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS5.KU940228	NS5	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU729218	NS5	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KX197205	NS5	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS5.KU497555	NS5	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
@@ -472,13 +472,13 @@ NS5.KU991811	NS5	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	
 NS5.KX548902	NS5	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS5.KU647676	NS5	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 NS5.KU922923	NS5	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
+NS5.KX702400	NS5	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 NS5.KU922960	NS5	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS5.KX198135	NS5	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS5.KX702400	NS5	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 NS5.KX247646	NS5	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-NS5.KU820897	NS5	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS5.KX087102	NS5	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS5.KX156775	NS5	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS5.KU820897	NS5	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS5.KX156774	NS5	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS5.KX156776	NS5	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS5.KX447510	NS5	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -488,65 +488,65 @@ NS5.KX447512	NS5	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oce
 NS5.KX447513	NS5	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX117076	NS5	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KU866423	NS5	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS5.KU955589	NS5	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX266255	NS5	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS5.KU955589	NS5	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KU820899	NS5	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX185891	NS5	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS5.KU963796	NS5	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KX806557	NS5	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
+NS5.KU963796	NS5	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS5.KJ776791	NS5	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX447516	NS5	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX447515	NS5	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX447514	NS5	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS5.KX447509	NS5	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS4A.LC002520	NS4A	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
-NS4A.KF383118	NS4A	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS4A.KU955594	NS4A	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
+NS4A.KF383118	NS4A	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS4A.KF383119	NS4A	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
+NS4A.LC002520	NS4A	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
 NS4A.KF383115	NS4A	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS4A.KF268948	NS4A	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS4A.KF268949	NS4A	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 NS4A.KF268950	NS4A	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
-NS4A.HQ234500	NS4A	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 NS4A.KF383116	NS4A	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
-NS4A.KU955595	NS4A	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS4A.HQ234501	NS4A	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
+NS4A.HQ234500	NS4A	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
+NS4A.KU955595	NS4A	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS4A.KU955592	NS4A	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
+NS4A.KX601166	NS4A	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS4A.KU955591	NS4A	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS4A.KF383117	NS4A	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
-NS4A.KX601166	NS4A	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
-NS4A.HQ234499	NS4A	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
 NS4A.KU681082	NS4A	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 NS4A.EU545988	NS4A	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
+NS4A.HQ234499	NS4A	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
 NS4A.KU955593	NS4A	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
-NS4A.KX694532	NS4A	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
-NS4A.KX813683	NS4A	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS4A.KU681081	NS4A	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+NS4A.KX694532	NS4A	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS4A.KX447517	NS4A	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS4A.KX813683	NS4A	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS4A.KU744693	NS4A	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS4A.KU321639	NS4A	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KX197192	NS4A	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU509998	NS4A	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
-NS4A.KU321639	NS4A	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU527068	NS4A	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS4A.KX051563	NS4A	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
-NS4A.KX673530	NS4A	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 NS4A.KX838906	NS4A	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS4A.KX673530	NS4A	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 NS4A.KX838904	NS4A	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS4A.KX832731	NS4A	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
-NS4A.KX842449	NS4A	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS4A.KX838905	NS4A	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS4A.KX842449	NS4A	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS4A.KU853012	NS4A	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS4A.KU853013	NS4A	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
-NS4A.KX280026	NS4A	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU729217	NS4A	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
+NS4A.KX280026	NS4A	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KX056898	NS4A	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KU955590	NS4A	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS4A.KX766028	NS4A	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 NS4A.KU740184	NS4A	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS4A.KX766028	NS4A	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 NS4A.KU761564	NS4A	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KU820898	NS4A	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS4A.KX087101	NS4A	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS4A.KU365778	NS4A	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS4A.KX087101	NS4A	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS4A.KU758877	NS4A	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 NS4A.KU937936	NS4A	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS4A.KU312312	NS4A	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
@@ -557,28 +557,28 @@ NS4A.KU870645	NS4A	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	Nor
 NS4A.KU365780	NS4A	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KX694534	NS4A	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS4A.KX262887	NS4A	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
-NS4A.KU501217	NS4A	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS4A.KU501216	NS4A	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
+NS4A.KU501217	NS4A	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS4A.KX766029	NS4A	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS4A.KX446950	NS4A	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS4A.KX446951	NS4A	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS4A.KX247632	NS4A	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS4A.KX520666	NS4A	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU940228	NS4A	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS4A.KX520666	NS4A	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU729218	NS4A	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KX197205	NS4A	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4A.KU497555	NS4A	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS4A.KU991811	NS4A	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS4A.KX548902	NS4A	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4A.KU647676	NS4A	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
-NS4A.KU922960	NS4A	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS4A.KU922923	NS4A	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
+NS4A.KU922960	NS4A	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS4A.KX198135	NS4A	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4A.KX702400	NS4A	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 NS4A.KX247646	NS4A	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4A.KX087102	NS4A	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-NS4A.KU820897	NS4A	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4A.KX156775	NS4A	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS4A.KU820897	NS4A	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4A.KX156774	NS4A	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4A.KX156776	NS4A	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4A.KX447510	NS4A	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -587,8 +587,8 @@ NS4A.KX369547	NS4A	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-Ameri
 NS4A.KX447512	NS4A	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4A.KX447513	NS4A	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4A.KX117076	NS4A	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS4A.KU955589	NS4A	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KU866423	NS4A	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS4A.KU955589	NS4A	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KX266255	NS4A	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KU820899	NS4A	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4A.KX185891	NS4A	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
@@ -597,40 +597,40 @@ NS4A.KX806557	NS4A	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	O
 NS4A.KJ776791	NS4A	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4A.KX447516	NS4A	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4A.KX447515	NS4A	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS4A.KX447509	NS4A	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4A.KX447514	NS4A	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS4A.KX447509	NS4A	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4B.LC002520	NS4B	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
-NS4B.KF383119	NS4B	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 NS4B.KF383118	NS4B	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
+NS4B.KF383119	NS4B	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
 NS4B.KU955594	NS4B	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS4B.KF383115	NS4B	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS4B.KF268949	NS4B	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 NS4B.KF268948	NS4B	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS4B.KF268950	NS4B	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 NS4B.HQ234500	NS4B	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
-NS4B.HQ234501	NS4B	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS4B.KF383116	NS4B	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
+NS4B.HQ234501	NS4B	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS4B.KU955595	NS4B	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS4B.KU955592	NS4B	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS4B.KU955591	NS4B	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS4B.KX601166	NS4B	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS4B.KF383117	NS4B	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
 NS4B.HQ234499	NS4B	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
-NS4B.EU545988	NS4B	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS4B.KU681082	NS4B	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+NS4B.EU545988	NS4B	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS4B.KU955593	NS4B	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
 NS4B.KX694532	NS4B	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS4B.KU681081	NS4B	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS4B.KX813683	NS4B	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS4B.KX447517	NS4B	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS4B.KU744693	NS4B	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4B.KX197192	NS4B	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS4B.KU744693	NS4B	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4B.KU321639	NS4B	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU509998	NS4B	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS4B.KU527068	NS4B	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS4B.KX051563	NS4B	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
-NS4B.KX673530	NS4B	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 NS4B.KX838906	NS4B	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
+NS4B.KX673530	NS4B	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
 NS4B.KX838904	NS4B	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS4B.KX832731	NS4B	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS4B.KX838905	NS4B	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
@@ -643,17 +643,17 @@ NS4B.KX056898	NS4B	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	C
 NS4B.KU955590	NS4B	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4B.KX766028	NS4B	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 NS4B.KU740184	NS4B	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS4B.KU820898	NS4B	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4B.KU761564	NS4B	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS4B.KU820898	NS4B	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS4B.KX087101	NS4B	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS4B.KU365778	NS4B	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS4B.KU937936	NS4B	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS4B.KU758877	NS4B	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
+NS4B.KU937936	NS4B	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS4B.KU312312	NS4B	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS4B.KU365779	NS4B	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU707826	NS4B	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
-NS4B.KU365780	NS4B	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU365777	NS4B	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS4B.KU365780	NS4B	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU870645	NS4B	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
 NS4B.KX694534	NS4B	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS4B.KX262887	NS4B	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
@@ -665,8 +665,8 @@ NS4B.KX247632	NS4B	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	Nor
 NS4B.KX446951	NS4B	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS4B.KU940228	NS4B	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KX520666	NS4B	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS4B.KX197205	NS4B	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU729218	NS4B	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS4B.KX197205	NS4B	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS4B.KU497555	NS4B	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS4B.KU991811	NS4B	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS4B.KX548902	NS4B	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
@@ -675,14 +675,14 @@ NS4B.KU922923	NS4B	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North Am
 NS4B.KU922960	NS4B	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS4B.KX198135	NS4B	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4B.KX702400	NS4B	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
-NS4B.KX087102	NS4B	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4B.KX247646	NS4B	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+NS4B.KX087102	NS4B	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4B.KU820897	NS4B	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS4B.KX156775	NS4B	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS4B.KX156776	NS4B	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4B.KX156774	NS4B	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS4B.KX447511	NS4B	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS4B.KX156776	NS4B	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS4B.KX447510	NS4B	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS4B.KX447511	NS4B	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4B.KX369547	NS4B	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4B.KX447512	NS4B	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4B.KX447513	NS4B	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -700,27 +700,27 @@ NS4B.KX447515	NS4B	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	O
 NS4B.KX447514	NS4B	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS4B.KX447509	NS4B	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KF383119	NS2A	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
-NS2A.KF383118	NS2A	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
-NS2A.KU955594	NS2A	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS2A.LC002520	NS2A	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
+NS2A.KU955594	NS2A	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
+NS2A.KF383118	NS2A	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS2A.KF383115	NS2A	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS2A.KF268949	NS2A	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 NS2A.KF268948	NS2A	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
 NS2A.KF268950	NS2A	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 NS2A.HQ234500	NS2A	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
-NS2A.HQ234501	NS2A	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
-NS2A.KF383116	NS2A	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
 NS2A.KU955595	NS2A	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
+NS2A.KF383116	NS2A	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
+NS2A.HQ234501	NS2A	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS2A.KU955592	NS2A	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
-NS2A.KU955591	NS2A	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS2A.KX601166	NS2A	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
+NS2A.KU955591	NS2A	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
 NS2A.KF383117	NS2A	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
-NS2A.KU681082	NS2A	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 NS2A.HQ234499	NS2A	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
+NS2A.KU681082	NS2A	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 NS2A.EU545988	NS2A	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS2A.KU955593	NS2A	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
-NS2A.KU681081	NS2A	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS2A.KX694532	NS2A	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+NS2A.KU681081	NS2A	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS2A.KX813683	NS2A	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS2A.KX447517	NS2A	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KU744693	NS2A	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
@@ -747,21 +747,21 @@ NS2A.KU761564	NS2A	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	As
 NS2A.KU820898	NS2A	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS2A.KX087101	NS2A	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS2A.KU365778	NS2A	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS2A.KU758877	NS2A	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 NS2A.KU937936	NS2A	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
+NS2A.KU758877	NS2A	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
 NS2A.KU312312	NS2A	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS2A.KU365779	NS2A	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS2A.KU707826	NS2A	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 NS2A.KU365777	NS2A	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS2A.KU707826	NS2A	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 NS2A.KU365780	NS2A	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2A.KU870645	NS2A	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
 NS2A.KX694534	NS2A	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
-NS2A.KX262887	NS2A	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS2A.KU501217	NS2A	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
+NS2A.KX262887	NS2A	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS2A.KU501216	NS2A	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS2A.KX766029	NS2A	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS2A.KX446950	NS2A	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2A.KX247632	NS2A	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+NS2A.KX446950	NS2A	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2A.KX446951	NS2A	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS2A.KU940228	NS2A	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2A.KX520666	NS2A	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
@@ -769,20 +769,20 @@ NS2A.KU729218	NS2A	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	S
 NS2A.KX197205	NS2A	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS2A.KU497555	NS2A	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS2A.KU991811	NS2A	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
-NS2A.KU647676	NS2A	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 NS2A.KX548902	NS2A	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+NS2A.KU647676	NS2A	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 NS2A.KU922923	NS2A	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 NS2A.KU922960	NS2A	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS2A.KX198135	NS2A	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2A.KX702400	NS2A	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 NS2A.KX247646	NS2A	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2A.KX087102	NS2A	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-NS2A.KU820897	NS2A	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2A.KX156775	NS2A	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS2A.KU820897	NS2A	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS2A.KX156774	NS2A	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS2A.KX156776	NS2A	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS2A.KX447510	NS2A	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX447511	NS2A	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS2A.KX447510	NS2A	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX369547	NS2A	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX447512	NS2A	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX447513	NS2A	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -795,13 +795,13 @@ NS2A.KX185891	NS2A	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	C
 NS2A.KU963796	NS2A	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS2A.KX806557	NS2A	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
 NS2A.KJ776791	NS2A	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS2A.KX447516	NS2A	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX447515	NS2A	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS2A.KX447514	NS2A	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS2A.KX447516	NS2A	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS2A.KX447509	NS2A	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-E.KF383118	E	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
-E.LC002520	E	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
+NS2A.KX447514	NS2A	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KF383119	E	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
+E.LC002520	E	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
+E.KF383118	E	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 E.KU955594	E	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 E.KF383115	E	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 E.KF268948	E	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
@@ -809,19 +809,19 @@ E.KF268949	E	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central Af
 E.KF268950	E	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 E.HQ234500	E	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 E.KF383116	E	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
-E.HQ234501	E	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 E.KU955595	E	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
+E.HQ234501	E	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 E.KU955592	E	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 E.KX601166	E	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
-E.KF383117	E	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
 E.KU955591	E	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
-E.EU545988	E	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
+E.KF383117	E	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
 E.HQ234499	E	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
-E.KU681082	E	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 E.KU955593	E	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
+E.KU681082	E	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+E.EU545988	E	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 E.KX694532	E	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
-E.KU681081	E	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 E.KX813683	E	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
+E.KU681081	E	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 E.KX447517	E	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KU744693	E	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU321639	E	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
@@ -839,100 +839,100 @@ E.KU853012	E	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy
 E.KU853013	E	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 E.KU729217	E	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 E.KX280026	E	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-E.KU955590	E	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
-E.KX766028	E	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
 E.KX056898	E	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
+E.KX766028	E	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
+E.KU955590	E	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU740184	E	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU761564	E	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
-E.KX087101	E	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 E.KU820898	E	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU365778	E	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+E.KX087101	E	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 E.KU758877	E	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
-E.KU937936	E	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 E.KU312312	E	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
+E.KU937936	E	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 E.KU365779	E	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KU707826	E	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
 E.KU365777	E	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KU365780	E	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KU870645	E	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
-E.KX694534	E	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 E.KX262887	E	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
+E.KX694534	E	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 E.KU501217	E	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 E.KU501216	E	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 E.KX766029	E	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-E.KX247632	E	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-E.KX446951	E	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 E.KX446950	E	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+E.KX446951	E	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
+E.KX247632	E	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 E.KU940228	E	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KX520666	E	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-E.KX197205	E	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KU729218	E	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+E.KX197205	E	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 E.KU497555	E	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 E.KU991811	E	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 E.KX548902	E	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 E.KU647676	E	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
-E.KU922923	E	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 E.KU922960	E	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+E.KU922923	E	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
 E.KX198135	E	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 E.KX702400	E	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
 E.KX247646	E	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-E.KX087102	E	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 E.KU820897	E	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+E.KX087102	E	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 E.KX156775	E	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-E.KX156776	E	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 E.KX156774	E	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 E.KX447510	E	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+E.KX156776	E	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 E.KX447511	E	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+E.KX369547	E	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX447512	E	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX447513	E	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-E.KX369547	E	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX117076	E	KX117076	2016	Zhejiang04	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU866423	E	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU955589	E	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
-E.KU820899	E	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KX266255	E	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
+E.KU820899	E	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KX185891	E	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 E.KU963796	E	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
-E.KJ776791	E	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX806557	E	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
+E.KJ776791	E	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX447516	E	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX447515	E	KX447515	2013	1_0030_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-E.KX447514	E	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 E.KX447509	E	KX447509	2013	1_0087_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+E.KX447514	E	KX447514	2014	1_0035_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS1.KU955594	NS1	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS1.KF383118	NS1	KF383118	2001	ArD157995	Aedes dalzieli	African	African	Africa	 Senegal	
 NS1.LC002520	NS1	LC002520	1947	MR766-Simiiformes	Simiiformes	African	African	Africa	Uganda	
-NS1.KU955594	NS1	KU955594	1947	MR766-Macaca	Macaca mulatta	African	African	Africa	Uganda	
 NS1.KF383119	NS1	KF383119	2001	ArD158084	Aedes dalzieli	African	African	Africa	 Senegal	
-NS1.KF383115	NS1	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
-NS1.KF268949	NS1	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
 NS1.KF268948	NS1	KF268948	1976	ARB13565	Aedes africanus	African	African	Africa	Central African Republic	
+NS1.KF268949	NS1	KF268949	1980	ARB15076	Aedes opok	African	African	Africa	Central African Republic	
+NS1.KF383115	NS1	KF383115	1968	ArB1362	Aedes africanus	African	African	Africa	Central African Republic	
 NS1.KF268950	NS1	KF268950	1976	ARB7701	Aedes africanus	African	African	African	Central African Republic	
 NS1.HQ234500	NS1	HQ234500	1968	IbH_30656	Homo Sapiens	African	African	Africa	Nigeria	
 NS1.KF383116	NS1	KF383116	1968	ArD7117	Aedes  luteocephalus	African	African	Africa	Senegal	
-NS1.HQ234501	NS1	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS1.KU955595	NS1	KU955595	1984	41671-DAK	Aedes taylori	African	African	Africa	 Senegal	
+NS1.HQ234501	NS1	HQ234501	1984	ArD_41519	Aedes africanus	African	African	Africa	 Senegal	
 NS1.KU955592	NS1	KU955592	1984	41662-DAK	Aedes taylori	African	African	Africa	 Senegal	
 NS1.KU955591	NS1	KU955591	1984	41525-DAK	Aedes africanus	African	African	Africa	 Senegal	
-NS1.KX601166	NS1	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS1.KF383117	NS1	KF383117	1997	ArD128000	Aedes luteocephalus	African	African	Africa	 Senegal	
-NS1.KU681082	NS1	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
+NS1.KX601166	NS1	KX601166	1984	DakAr41524	Aedes africanus	African	African	Africa	 Senegal	
 NS1.HQ234499	NS1	HQ234499	1966	P6-740	Aedes aegypti	Asian	South_Eastern_Asian	Asia	Malaysia	Ancestor strain for Asian lineages
+NS1.KU681082	NS1	KU681082	2012	CPC-0740	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Philippines	
 NS1.EU545988	NS1	EU545988	2007	Yap2007	Homo Sapiens	Asian	South_Eastern_Asian	Oceania	Micronsia	First large outbreak in humans
 NS1.KU955593	NS1	KU955593	2010	FSS13025	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Cambodia	
-NS1.KX694532	NS1	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS1.KU681081	NS1	KU681081	2014	SV0127	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
+NS1.KX694532	NS1	KX694532	2013	PLCal_ZV	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Thailand	
 NS1.KX813683	NS1	KX813683	2016	ZKA-16-097	Homo Sapiens	Asian	South_Eastern_Asian	Asia	Singapore	
 NS1.KX447517	NS1	KX447517	2014	1_0038_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
-NS1.KU744693	NS1	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KX197192	NS1	KX197192	2015	PE243	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS1.KU744693	NS1	KU744693	2016	VE_Ganxian	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU321639	NS1	KU321639	2015	ZikaSPH2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KU509998	NS1	KU509998	2014	Haiti/1225/2014	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS1.KU527068	NS1	KU527068	2015	Natal_RGN	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS1.KX051563	NS1	KX051563	2016	Haiti/1/2016	Homo Sapiens	Asian	Oceania-American	North America	Haiti	
 NS1.KX838906	NS1	KX838906	2016	FL03M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS1.KX673530	NS1	KX673530	2016	PHE_semen_Guadeloupe	Homo Sapiens	Asian	Oceania-American	Europe	United Kingdom	
-NS1.KX838904	NS1	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS1.KX832731	NS1	KX832731	2016	Hu0015SA	Homo Sapiens	Asian	Oceania-American	North America	USA	
+NS1.KX838904	NS1	KX838904	2016	FL01M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS1.KX838905	NS1	KX838905	2016	FL02M	Aedes aegypti	Asian	Oceania-American	North America	USA	
 NS1.KX842449	NS1	KX842449	2016	ZF10.UR-010	Homo Sapiens	Asian	Oceania-American	North America	USA	
 NS1.KU853012	NS1	KU853012	2016	PD1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
@@ -940,49 +940,49 @@ NS1.KU853013	NS1	KU853013	2016	PD2	Homo Sapiens	Asian	Oceania-American	Europe	It
 NS1.KU729217	NS1	KU729217	2015	BeH823339	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly
 NS1.KX280026	NS1	KX280026	2015	Paraiba_01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KX056898	NS1	KX056898	2016	GZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS1.KU955590	NS1	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KX766028	NS1	KX766028	2016	R114916	Homo Sapiens	Asian	Oceania-American	North America	Dominican Republic	
+NS1.KU955590	NS1	KU955590	2016	Z16019	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU740184	NS1	KU740184	2016	GD01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU761564	NS1	KU761564	2016	GDZ16001	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU820898	NS1	KU820898	2016	GZ01	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KX087101	NS1	KX087101	2015	PRVABC59	Homo Sapiens	Asian	Oceania-American	North America	Puerto Rico	
 NS1.KU365778	NS1	KU365778	2015	BeH819015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KU758877	NS1	KU758877	2015	17271	Homo Sapiens	Asian	Oceania-American	South America	French Guiana	
+NS1.KU312312	NS1	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS1.KU937936	NS1	KU937936	2016	ZIKVNL00013	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS1.KU365779	NS1	KU365779	2015	BeH819966	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS1.KU312312	NS1	KU312312	2015	Z1106033	Homo Sapiens	Asian	Oceania-American	South America	Suriname	
 NS1.KU707826	NS1	KU707826	2015	SSABR1	Homo Sapiens 	Asian	Oceania-American	South America	Brazil	
-NS1.KU365777	NS1	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KU365780	NS1	KU365780	2015	BeH815744	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS1.KU365777	NS1	KU365777	2015	BeH818995	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KU870645	NS1	KU870645	2016	FB-GWUH	Homo Sapiens	Asian	Oceania-American	North America	USA	microcephaly
-NS1.KX694534	NS1	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS1.KX262887	NS1	KX262887	2016	103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS1.KU501217	NS1	KU501217	2015	8375	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
+NS1.KX694534	NS1	KX694534	2015	R103451	Homo Sapiens	Asian	Oceania-American	Central America	Honduras	
 NS1.KU501216	NS1	KU501216	2015	103344	Homo Sapiens	Asian	Oceania-American	Central America	Guatemala	
 NS1.KX766029	NS1	KX766029	2016	R116265	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
-NS1.KX446950	NS1	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS1.KX247632	NS1	KX247632	2015	MEX_I_7	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
+NS1.KX446950	NS1	KX446950	2016	MEX_2-81	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS1.KX446951	NS1	KX446951	2016	MEX_I-7	Aedes sp.	Asian	Oceania-American	North America	Mexico	
 NS1.KX520666	NS1	KX520666	2015	HS-2015-BA-01	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS1.KU940228	NS1	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KU729218	NS1	KU729218	2015	BeH828305	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
+NS1.KU940228	NS1	KU940228	2015	Bahia07	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
 NS1.KX197205	NS1	KX197205	2015	9	Homo Sapiens	Asian	Oceania-American	South America	Brazil	
-NS1.KU497555	NS1	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS1.KU991811	NS1	KU991811	2016	INMI1	Homo Sapiens	Asian	Oceania-American	Europe	Italy	
 NS1.KX548902	NS1	KX548902	2015	FCC00093	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
+NS1.KU497555	NS1	KU497555	2015	Brazil-ZKV2015	Homo Sapiens	Asian	Oceania-American	South America	Brazil	microcephaly -
 NS1.KU647676	NS1	KU647676	2015	MRS_OPY_Martinique_PaRi_2015	Homo Sapiens	Asian	Oceania-American	North America	Martinique	
 NS1.KU922923	NS1	KU922923	2016	Lm	Homo Sapiens	Asian	Oceania-American	North America	Mexica	
-NS1.KX198135	NS1	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS1.KU922960	NS1	KU922960	2016	Sm	Homo Sapiens	Asian	Oceania-American	North America	Mexico	
 NS1.KX702400	NS1	KX702400	2016	UF-1	Homo Sapiens	Asian	Oceania-American	South America	Venezuela	
+NS1.KX198135	NS1	KX198135	2016	BEI-259634_V4	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS1.KX087102	NS1	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS1.KX247646	NS1	KX247646	2016	UF-1	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS1.KU820897	NS1	KU820897	2015	FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
-NS1.KX087102	NS1	KX087102	2015	COL_FLR	Homo Sapiens	Asian	Oceania-American	North America	Colombia	
 NS1.KX156775	NS1	KX156775	2015	CDC-259249_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS1.KX156774	NS1	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
-NS1.KX447510	NS1	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS1.KX156776	NS1	KX156776	2015	CDC-259364_V1-V2	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
+NS1.KX156774	NS1	KX156774	2015	CDC-259359_V1-V3	Homo Sapiens	Asian	Oceania-American	Central America	Panama	
 NS1.KX447511	NS1	KX447511	2014	1_0015_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
+NS1.KX447510	NS1	KX447510	2013	1_0049_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS1.KX369547	NS1	KX369547	2013	PF13/251013-18	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS1.KX447512	NS1	KX447512	2013	1_0181_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS1.KX447513	NS1	KX447513	2013	1_0134_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
@@ -991,8 +991,8 @@ NS1.KU866423	NS1	KU866423	2016	SZ01	Homo Sapiens	Asian	Oceania-American	Asia	Chi
 NS1.KU955589	NS1	KU955589	2016	Z16006	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KX266255	NS1	KX266255	2016	ZIKV_SMGC-1	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU820899	NS1	KU820899	2016	ZJ03	Homo Sapiens	Asian	Oceania-American	Asia	China	
-NS1.KX185891	NS1	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KU963796	NS1	KU963796	2016	SZ-WIV01	Homo Sapiens	Asian	Oceania-American	Asia	China	
+NS1.KX185891	NS1	KX185891	2016	SZ02	Homo Sapiens	Asian	Oceania-American	Asia	China	
 NS1.KX806557	NS1	KX806557	2016	TS17-2016	Homo Sapiens	Asian	Oceania-American	Oceania	Australia	
 NS1.KJ776791	NS1	KJ776791	2013	H/PF/2013	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
 NS1.KX447516	NS1	KX447516	2014	1_0111_PF	Homo Sapiens	Asian	Oceania-American	Oceania	French Polynesia	
