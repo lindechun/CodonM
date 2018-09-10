@@ -30,29 +30,6 @@ def parseCommand():
 
     return parser.parse_args()
 
-
-def plot_ATGC_content(dat,infoTable,groupColumns,Opath,prefix,orderGroups):
-    info=pd.read_table(infoTable,sep="\t",index_col=0)
-
-    dat['Groups']=info.loc[dat['ID'],groupColumns].values
-    del dat['ID']
-
-    ## ATGC mean(1-3rd)
-    dat1=dat.loc[dat.Base.isin(['A','T','G','C']),]
-    dat1=pd.melt(dat1,id_vars=['Base','Groups'])
-    dat1=dat1.rename(columns={"variable":'Gene','value':'Percentage'})
-    dat1=pd.DataFrame(dat1.groupby(['Base','Groups','Gene'])['Percentage'].mean())
-    dat1.to_csv(Opath+'/'+prefix+'.ATGC_Content.1-3rd.Codon.withinGroups.txt',sep="\t")
-
-    ## ATGC mean(3rd)
-    dat3=dat.loc[dat.Base.isin(['A3','T3','G3','C3']),]
-    dat3=pd.melt(dat3,id_vars=['Base','Groups'])
-    dat3=dat3.rename(columns={"variable":'Gene','value':'Percentage'})
-    dat3=pd.DataFrame(dat3.groupby(['Base','Groups','Gene'])['Percentage'].mean())
-    dat3.to_csv(Opath+'/'+prefix+'.ATGC_Content.3rd.Codon.withinGroups.txt',sep="\t")
-
-    os.system("Rscript "+os.path.dirname(os.path.realpath(__file__))+"/ATGC.percentage.plot.R "+Opath+"/"+prefix+".ATGC_Content.1-3rd.Codon.withinGroups.txt "+Opath+"/"+prefix+".ATGC_Content.3rd.Codon.withinGroups.txt "+orderGroups+' '+Opath+'/'+prefix)
-
 def main():
     para=parseCommand()
     falist=para.falist
