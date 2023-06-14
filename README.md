@@ -38,7 +38,7 @@ git clone https://github.com/lindechun/CodonM.git
 /your/path/to/CodonM/CodonM.py -h
 ```
 
-You will nedd to install all the dependencies packages and `codonw` by `pip` or `conda`.
+You need to install all the dependencies packages and `codonw` by `pip` or `conda`.
 
 
 ## Basic test data set
